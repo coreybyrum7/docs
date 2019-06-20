@@ -1,4 +1,4 @@
-<div id="homeLogoWrapper">
+<div id="homeLogoWrapper" tabindex="0" role="button" aria-pressed"false">
   <div id="homeLogo"></div>
 </div>
 
