@@ -1,4 +1,4 @@
-<div id="homeLogoWrapper" tabindex="0" role="button" aria-pressed="false">
+<div id="homeLogoWrapper" title="Home" tabindex="0" role="button" aria-pressed="false">
   <div id="homeLogo"></div>
 </div>
 
@@ -6,18 +6,18 @@
 
 <div class="platformContainer">
   <div id="tmsContainer" class="cardContainer">
-    <div id="tms" class="trueHome cardContent">
+    <div id="tms" class="trueHome cardContent" title="TMS">
       <a href="/tms/home.md">Training Management Studio</a>
       <p>Manage your users and schedule training to consume content.</p>
     </div>
   </div>
   <div id="lodContainer" class="cardContainer">
-    <div id="lod" class="trueHome cardContent">
+    <div id="lod" class="trueHome cardContent" title="LOD">
       <a href="/lod/home.md">Lab on Demand</a>
       <p>Build/manage your lab content for consumption.</p>
     </div>
   </div>
-  <div id="portalContainer" class="cardContainer">
+  <div id="portalContainer" class="cardContainer" title="Customer Portal">
     <div id="portal" class="trueHome cardContent">
       <p>Customer Portal</p>
       <p>Manage your organization - coming soon.</p>
