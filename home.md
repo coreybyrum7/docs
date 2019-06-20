@@ -21,7 +21,7 @@
   </div>
 </div>
 
-<div class="roadmapContainer">
+<div class="roadmapContainer home">
   <div id="roadmap" class="moreInfo" tabindex="0" title="Roadmap">
     <span class="moreInfo_header">LODS Roadmap</span>
     Review our <a href="https://www.learnondemandsystems.com/development-roadmap" title="Roadmap">Roadmap</a> and sign up to receive e-mail notifications of all platform and service updates as they are announced.
