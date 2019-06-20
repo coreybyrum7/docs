@@ -13,7 +13,7 @@
   </div>
   <div id="portalContainer" class="cardContainer">
     <div id="portal" class="trueHome cardContent">
-      <a href=""></a>
+      <a href="">Customer Portal</a>
       <p>Manage your organization - coming soon.</p>
     </div>
   </div>
