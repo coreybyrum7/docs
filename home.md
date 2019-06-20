@@ -1,3 +1,7 @@
+<div id="homeLogoWrapper">
+  <div id="homeLogo"></div>
+</div>
+
 <div class="largeHeader">Get started by choosing your platform</div>
 
 <div class="platformContainer">
