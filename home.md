@@ -1,3 +1,5 @@
+<div class="largeHeader">Get started by choosing your platform</div>
+
 <div class="platformContainer">
   <div id="tmsContainer" class="cardContainer">
     <div id="tms" class="trueHome cardContent">
